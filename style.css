@@ -1,4 +1,13 @@
-p{
+
+.Quote{
     background-color: gray;
-    font-size: 36px;
+}
+.Heading{
+    font-size: 32px;
+}
+.subtext{
+    font-size: 8px;
+}
+.Main{
+    background-color: blue;
 }
